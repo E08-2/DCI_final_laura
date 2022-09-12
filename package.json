@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "DCI Fullstack Web Development - final project - An e-Commerce web-site",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -22,5 +22,13 @@
     "nodemon": "^2.0.19",
     "stripe": "^10.6.0"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E08-2/DCI_final_laura.git"
+  },
+  "bugs": {
+    "url": "https://github.com/E08-2/DCI_final_laura/issues"
+  },
+  "homepage": "https://github.com/E08-2/DCI_final_laura#readme"
 }
